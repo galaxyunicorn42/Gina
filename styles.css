@@ -1,0 +1,21 @@
+body{
+    background-color:lightblue;
+    }
+h1{
+    font-family: 'Lobster', cursive;
+    text-align:center;
+ }
+ h2{
+     font-family: 'Indie Flower', cursive;
+     text-align:center;
+}
+img{
+    width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+}
+
